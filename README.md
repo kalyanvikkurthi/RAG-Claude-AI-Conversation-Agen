@@ -24,8 +24,11 @@ Enjoy the conversational experience powered by LangChain v1!
 **Resources**
 
 LangChain v1 Documentation: LangChain v1 Documentation(https://example.com/langchain-v1-docs)
+
 Claude 3 Opus Documentation: Claude 3 Opus Documentation(https://example.com/claude-3-opus-docs)
+
 Voyage AI Embed Model Documentation: Voyage AI Embed Model Documentation(https://example.com/voyage-ai-embed-docs)
+
 Pinecone Documentation: Pinecone Documentation(https://example.com/pinecone-docs )
 
 
