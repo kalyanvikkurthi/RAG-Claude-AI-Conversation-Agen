@@ -1,4 +1,4 @@
-# RAG-Claude-AI-Conversation-Agen
+# RAG-Claude-AI-Conversation-Agent
 Claude 3 Opus Conversation Agent with RAG
 
 **RAG Agent with LangChain v1**
